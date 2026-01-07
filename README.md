@@ -1,7 +1,7 @@
 # Dynamics of Cosmic Plasma – Programming Projects
 
 This repository contains a collection of programming projects completed as part of the
-*Dynamics of Cosmic Plasma* course. The projects focus on numerical modeling and computational
+*Dynamics of Cosmic Plasma* course from **2024. summer semester**. The projects focus on numerical modeling and computational
 analysis of physical processes relevant to cosmic and astrophysical plasmas.
 
 ## Course Overview
