@@ -6,16 +6,6 @@ particle motion in magnetic and electromagnetic fields relevant to space and ast
 plasma physics.
 
 
-## Repository Structure
-
-.
-├── Project1/
-├── Project2/
-├── Project3/
-├── Project4/
-└── README.md
-
-
 Each project directory contains the corresponding source code, numerical results, and
 visualizations produced during the simulations.
 
